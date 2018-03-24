@@ -1,0 +1,12 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="ContextHelp@DiffToolbar" count="1" />
+      <entry action="Educational.Check@Study" count="5" />
+      <entry action="Educational.CompareWithAnswer@Study" count="3" />
+      <entry action="Educational.NextTask@Study" count="6" />
+      <entry action="Educational.RefreshTaskFile@Study" count="1" />
+      <entry action="Educational.ShowHint@Study" count="10" />
+    </counts>
+  </component>
+</application>

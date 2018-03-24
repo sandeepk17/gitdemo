@@ -1,0 +1,10 @@
+<application>
+  <component name="Edu.Statistics">
+    <option name="checkTask" value="5" />
+    <option name="externalLink" value="1" />
+    <option name="navigateToTask" value="10" />
+    <option name="project.created.Study" value="1" />
+    <option name="project.opened.Study" value="1" />
+    <option name="showHint" value="10" />
+  </component>
+</application>
